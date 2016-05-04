@@ -1,0 +1,2 @@
+serviceClass: hci.client.NewTaskService
+path: 2A06BF503AD74150D57E7E2B5F6744FA.gwt.rpc

@@ -1,0 +1,279 @@
+ZEPHYR
+------
+Weather
+Low wind
+None
+English
+
+TRITE
+-----
+Overuse
+Repeated often
+None
+English
+
+SURREPTITIOUS
+-------------
+Secrecy
+Cautiously
+None
+English
+
+SOLICITOUS
+----------
+Anxiety
+Concern
+None
+English
+
+SERENDIPITY
+-----------
+Good Luck
+Fortunate
+None
+English
+
+FORTUITOUS
+----------
+Lucky
+Happy accident
+None
+English
+
+PALEONTOLOGY
+------------
+Study of dinosaurs
+Bones
+None
+English
+
+SANGUINE
+--------
+Optimism
+Cheerful
+None
+English
+
+PLETHORA
+--------
+A lot 
+Excess
+None
+English
+
+PITHY
+-----
+To the point
+Concise
+None
+English
+
+PHILANTHROPIC
+-------------
+Giving
+Charitable
+None
+English
+
+MODICUM
+-------
+few
+Small amount
+None
+English
+
+MYRIAD
+------
+Many
+Large number
+None
+English
+
+PANACEA
+-------
+Remedy for illnesses
+Cure-all
+None
+English
+
+CAPRICIOUS
+----------
+Hasty
+Impulsive
+None
+English
+
+RHYTHM
+------
+Writing in a beat
+Cadence
+None
+English
+
+PHARAOH
+-------
+Ancient ruler
+Buried in pyramids
+None
+English
+
+ZEAL
+----
+Devotion to a goal
+Passion
+None
+English
+
+POIGNANT
+--------
+Touching
+Emotional
+None
+English
+
+ANNEX
+-----
+Attach
+Append
+None
+English
+
+BANE
+----
+Something that ruins
+wolfs----
+None
+English
+
+CAMARADERIE
+-----------
+Fellowship
+Spirit of trust between friends
+None
+English
+
+CONDUIT
+-------
+Natural passage
+Duct
+None
+English
+
+INSURGENT
+---------
+Oppose authority
+Rebellious
+None
+English
+
+KNELL
+-----
+Slow ringing bell
+Announces death
+None
+English
+
+NOSTALGIC
+---------
+Sentimental
+Wistful
+None
+English
+
+MAUDLIN
+-------
+Tearfully emotional
+Sentimental
+None
+English
+
+NEOPHYTE
+--------
+Beginner
+Novice
+None
+English
+
+QUANDARY
+--------
+Uncertainty
+Dilemma
+None
+English
+
+RESCIND
+-------
+Revoke
+Repeal
+None
+English
+
+SANCTIMONIOUS
+-------------
+Moral superiority
+Hypocritically devout
+None
+English
+
+UBIQUITOUS
+----------
+Present everywhere
+Frequent
+None
+English
+
+VAUGE
+-----
+Not clear
+Not defined
+None
+English
+
+ADVOCATE
+--------
+Supporter
+Promoter
+None
+English
+
+ALIAS
+-----
+Tool for spies and criminals
+Alternate names
+None
+English
+
+ALCHEMIST
+---------
+Medieval chemist
+Wizard 
+None
+English
+
+ALLITERATION
+------------
+Repetition of words
+Similar sounds repeated
+None
+English
+
+CYNICAL
+-------
+Mocking criticism
+Skeptical
+None
+English
+
+TRAUMA
+------
+Ordeal 
+Serious injury
+None
+English
+
+PROTAGONIST
+-----------
+Hero
+Main Character
+None
+English

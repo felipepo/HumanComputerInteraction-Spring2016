@@ -1,0 +1,279 @@
+BUENOS DIAS
+------ ----
+Greeting
+Morning
+Good morning
+Spanish
+
+A LA DERECHA
+- -- -------
+Direction
+Opposite right
+Left
+Spanish
+
+A LA IZQUIERDA
+- -- ---------
+Direction
+Opposite left
+Right
+Spanish
+
+HAMBURQUESA
+-----------
+Food
+Picnic food
+Hamburger
+Spanish
+
+AGUA
+----
+Liquid
+H20
+Water
+Spanish
+
+POR FAVOR
+--- -----
+Saying
+Courtesy
+Please
+Spanish
+
+GRANDE
+------
+Size
+Not small
+Large
+Spanish
+
+AYER
+----
+Time
+Past
+Yesterday
+Spanish
+
+CABALLO
+-------
+Animal
+Used at races
+Horse
+Spanish
+
+TE QUIERO
+-- ------
+Expression
+Stronger then like
+I Love You
+Spanish
+
+GUTEN ABEND
+----- -----
+Expression
+Evening
+Good evening
+German
+
+DIE TOCHTER
+--- -------
+Child
+Female
+Daughter
+German
+
+NULL
+----
+Number
+Nothing
+Zero
+German
+
+WIEVIEL KOSTET DAS
+------- ------ --- ?
+Question
+Making a purchase
+How much does this cost?
+German
+
+RECHTS
+------
+Direction
+Opposite left
+Right
+German
+
+NULL
+----
+Number
+Nothing
+Zero
+German
+
+SPRECHEN SIE ENGLISCH
+-------- --- -------- ?
+Question
+Language question
+Do you speak English?
+German
+
+DAS SALZ
+--- ----
+Seasoning
+White
+Salt
+German
+
+DER PFEFFER
+--- -------
+Seasoning
+Black
+Pepper
+German
+
+DER FLUGHAFEN
+--- ---------
+Place
+Flight
+Airport
+German
+
+JE NE COMPRENDS PAS
+-- -- --------- ---
+Saying
+Confusion
+I don't understand
+French
+
+MERCI
+-----
+Saying
+Appreciation
+Thank you
+French
+
+UNE FOURCHETTE
+--- ----------
+A utensil
+Has tines
+A fork
+French
+
+MERCI
+-----
+Saying
+Appreciation
+Thank you
+French
+
+L EAU
+-'---
+Liquid
+H20
+Water
+French
+
+PLEIN DE VIE
+----- -- ---
+Saying
+Overjoyed 
+Full of life
+French
+
+JE T AIME
+-- -'----
+Expression
+Stronger then like
+I Love You
+French
+
+SOLEIL
+------
+Solar object
+Bright
+Sun
+French
+
+NOIR
+----
+Color
+Dark
+Black
+French
+
+PARAPLUIE
+---------
+Rain gear
+Has a handle
+Umbrella
+French
+
+MI SCUSI
+-- -----
+Expression
+Politeness
+Excuse me
+Italian
+
+FRATELLO
+--------
+Child
+Male
+Brother
+Italian
+
+CIAO
+----
+Saying
+Greeting
+Hi
+Italian
+
+BUONA FORTUNA
+----- -------
+Saying
+Wish of fortune
+Good Luck
+Italian
+
+TI AMO
+-- ---
+Expression
+Stronger then like
+I Love You
+Italian
+
+MI DISPIACE
+-- --------
+Expression
+Apology
+I'm sorry
+Italian
+
+OGGI
+----
+Time
+Current
+Today
+Italian
+
+PRANZO
+------
+Meal 
+Afternoon
+Lunch
+Italian
+
+AIUTO
+-----
+Statement
+Assistance
+Help
+Italian
+
+CINQUE
+------
+Number
+Under 10
+5
+Italian
